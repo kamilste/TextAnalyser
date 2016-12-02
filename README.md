@@ -6,4 +6,4 @@ Pre-requirements
 
 This software allows user input to be analysed. Proposed system has four parts: Interface, Knowledge Base, Middleware, Database, and languages involve Scala and Structured Query Language (SQL).
 
-If you requirey further information please email me.
+If you require further information please email me.
