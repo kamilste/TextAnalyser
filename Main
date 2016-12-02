@@ -23,7 +23,7 @@ println("Welcome to Text Analyser, please provide input to see list of available
 println("-----------------------------------")
 
   val manInp: String = { //create a function to take user input
-    StdIn.readLine("Please enter some text, and press enter: ").replaceAll("[']", "")//take user input and replace all "'" by space
+    StdIn.readLine("Please enter some text, and press enter: ").replaceAll("[']", "") //take user input and replace all "'" by space
   }
   //database.getClass //run database object
 
